@@ -1,2 +1,2 @@
 # phptinker
-Run PHP code live and instant
+Write code, run instant & share as snippet
